@@ -1,2 +1,2 @@
 # Machine_learning_pr1
-first machine learning projecct
+first machine learning project
